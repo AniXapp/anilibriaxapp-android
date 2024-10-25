@@ -13,6 +13,11 @@ Android клиент для просмотра аниме в русской оз
 ## Support
 По любому вопросу относительно работы приложения писать на support@anixapp.tech. Для предложений относительно разработки приложения писать на dev@anixapp.tech
 
+## Contributors
+[![axeinstd](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/123299018?s=100&u=1820e85d17ce0e1ed1501e137a8c040b53ad2543&v=4&mask=circle&maxage=7d)](https://github.com/axeinstd)
+> axeinstd
+
+
 ## Лицензия
 Исходный код распространяется под лицензией GPL v3
 
